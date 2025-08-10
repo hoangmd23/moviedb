@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/randomBackdrop.jpg",
+  "belongs_to_collection": {
+    "id": 1,
+    "name": "Sample Collection",
+    "poster_path": "/randomPoster.jpg",
+    "backdrop_path": "/randomBackdropCollection.jpg"
+  },
+  "budget": 123456789,
+  "genres": [
+    {
+      "id": 1,
+      "name": "Genre1"
+    },
+    {
+      "id": 2,
+      "name": "Genre2"
+    }
+  ],
+  "homepage": "https://example.com",
+  "id": 999999,
+  "imdb_id": "tt1234567",
+  "origin_country": [
+    "XX"
+  ],
+  "original_language": "xx",
+  "original_title": "Sample Movie Title",
+  "overview": "This is a placeholder overview describing the movie plot.",
+  "popularity": 123.45,
+  "poster_path": "/randomPosterPath.jpg",
+  "production_companies": [
+    {
+      "id": 1,
+      "logo_path": "/randomLogo1.png",
+      "name": "Sample Company 1",
+      "origin_country": "XX"
+    },
+    {
+      "id": 2,
+      "logo_path": "/randomLogo2.png",
+      "name": "Sample Company 2",
+      "origin_country": "XX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XX",
+      "name": "Sample Country"
+    }
+  ],
+  "release_date": "2025-01-01",
+  "revenue": 1234567890,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Language1",
+      "iso_639_1": "l1",
+      "name": "Language1"
+    },
+    {
+      "english_name": "Language2",
+      "iso_639_1": "l2",
+      "name": "Language2"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sample tagline here.",
+  "title": "Sample Movie Title",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 1000
+}

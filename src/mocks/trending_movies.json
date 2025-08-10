@@ -1,0 +1,196 @@
+{
+  "page": 7,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aX3pLJfYTrmkJ8OeiHR9GQWlt3b.jpg",
+      "id": 984372,
+      "title": "Neon Horizon",
+      "original_title": "Neon Horizon",
+      "overview": "In a dystopian future, a lone hacker uncovers a conspiracy that could change the fate of humanity forever. Racing against time, she must outwit the powerful corporation hunting her.",
+      "poster_path": "/dX9kAlvYHbCTeoVpr7Nz8MIGJxD.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        53,
+        28
+      ],
+      "popularity": 832.5741,
+      "release_date": "2025-09-14",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 542
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/czm9OxRnWQqT3fbEiTqKyH0B7dY.jpg",
+      "id": 1051239,
+      "title": "Midnight Whisper",
+      "original_title": "Midnight Whisper",
+      "overview": "When mysterious messages start appearing around the city, a detective teams up with a cryptic informant to unravel a chilling urban mystery.",
+      "poster_path": "/cVfHQLXh3pOZfRLqTXVwhC7dpRx.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "popularity": 156.2013,
+      "release_date": "2025-08-02",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lJzyxEs2fBvQjWOLhd0M17pTxPy.jpg",
+      "id": 1176458,
+      "title": "Rust and Thunder",
+      "original_title": "Rust and Thunder",
+      "overview": "Two estranged brothers reunite to save their family's legacy, battling past demons and a corporate threat in a town on the brink of collapse.",
+      "poster_path": "/vF15sJpVLozN0BYfLwMK7b9tAxM.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        28,
+        12
+      ],
+      "popularity": 431.1127,
+      "release_date": "2025-06-28",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 202
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mNtx4ZOp5VGoBDpry9SL0jwQdb6.jpg",
+      "id": 1198720,
+      "title": "Echoes of Tomorrow",
+      "original_title": "Echoes of Tomorrow",
+      "overview": "In a world where time travel is forbidden, a scientist risks everything to prevent a catastrophic event from rewriting history.",
+      "poster_path": "/rLkE7WjT2nOuYz9lPdMvT57xuJ8.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        53,
+        12
+      ],
+      "popularity": 503.824,
+      "release_date": "2025-07-19",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 673
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tUpq3CJL56FqMH8bVWpZ4A9TdGH.jpg",
+      "id": 1043289,
+      "title": "Silent Skies",
+      "original_title": "Silent Skies",
+      "overview": "After a global blackout, survivors must navigate a silent world where sound has deadly consequences.",
+      "poster_path": "/8Wt1nZJrLfY6VKx7M0XOBXv4Ed.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        53,
+        18,
+        27
+      ],
+      "popularity": 212.44,
+      "release_date": "2025-10-05",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 134
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p2XCVbxwF6UewgZLfZybqj9TsHt.jpg",
+      "id": 1212334,
+      "title": "The Last Gambit",
+      "original_title": "The Last Gambit",
+      "overview": "A retired chess grandmaster returns to the game to settle a personal vendetta, but soon uncovers a deeper conspiracy.",
+      "poster_path": "/3nIKWkYnYjt6lvXqC62Je5qFHGd.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "popularity": 89.101,
+      "release_date": "2025-09-22",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j9DOYTb7XGWCPxYLqE7Od4N19cz.jpg",
+      "id": 1093487,
+      "title": "Solar Drift",
+      "original_title": "Solar Drift",
+      "overview": "A spaceship crew must survive an uncharted cosmic storm while uncovering secrets from their past missions.",
+      "poster_path": "/w0fYN4EzLCUHVbYzTAFkFQ05iHt.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 305.7562,
+      "release_date": "2025-07-11",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 301
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a89Kl1SwexPGpQLOsQyiKPTXx8p.jpg",
+      "id": 1167823,
+      "title": "Crimson Tide",
+      "original_title": "Crimson Tide",
+      "overview": "In the turbulent waters of political intrigue, a naval officer confronts betrayal and hidden enemies on board a submarine mission.",
+      "poster_path": "/3E1f7B78J4HOkuLp2Rye66PnqfK.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "popularity": 141.455,
+      "release_date": "2025-06-14",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zRHYjTpMKaeJcdOkM7P95hXvL8q.jpg",
+      "id": 1110984,
+      "title": "Glass Mirage",
+      "original_title": "Glass Mirage",
+      "overview": "A psychological thriller exploring a detective’s descent into a surreal reality after a case hits too close to home.",
+      "poster_path": "/s3oLWjTRNUbXIvOGCXEZvWRhf5b.jpg",
+      "media_type": "movie",
+      "original_language": "en",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "popularity": 117.8093,
+      "release_date": "2025-08-21",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 83
+    }
+  ],
+  "total_pages": 420,
+  "total_results": 8400
+}

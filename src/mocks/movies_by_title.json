@@ -1,0 +1,55 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/randomBackdrop1.jpg",
+      "genre_ids": [1, 2, 3, 4],
+      "id": 1001,
+      "original_language": "xx",
+      "original_title": "Sample Movie 1",
+      "overview": "This is a sample overview of the movie plot.",
+      "popularity": 123.45,
+      "poster_path": "/randomPoster1.jpg",
+      "release_date": "2025-01-01",
+      "title": "Sample Movie 1",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1000
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [5, 6, 7],
+      "id": 1002,
+      "original_language": "xx",
+      "original_title": "Sample Movie 2",
+      "overview": "Another sample movie description goes here.",
+      "popularity": 50.12,
+      "poster_path": "/randomPoster2.jpg",
+      "release_date": "2024-05-05",
+      "title": "Sample Movie 2",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 500
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1003,
+      "original_language": "xx",
+      "original_title": "Sample Movie 3",
+      "overview": "Description is empty or missing for this sample movie.",
+      "popularity": 0.0,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Sample Movie 3",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 30
+}
